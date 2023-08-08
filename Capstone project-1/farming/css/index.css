@@ -1,0 +1,351 @@
+div[id="0"]{
+    height:500px;
+    width:830px;
+    background-color:pink;
+    margin-left: 200px;
+    margin-bottom: 0px;
+    background-image: url('../images/vege1.jpg');
+
+}
+div[id="1"]{
+    height:800px;
+    width:830px;
+    background-color: green;
+    margin-left: 200px;
+
+}
+div[id="2"]{
+    height: 200px;
+    width:830px;
+    background-color: green;
+}
+div[id="3"]{
+    height: 250px;
+    width:250px;
+    background-color: pink;
+    float:left;
+    margin-top:20px;
+    margin-left: 20px;
+    background-image: url('../images/organic-food-farm.jpg');
+    background-size: 250px 250px;
+}
+div[id="4"]{
+    height: 250px;
+    width:250px;
+    background-color: pink;
+    float:left;
+    margin-top:20px;
+    margin-left: 20px;
+    background-image: url('../images/vege3.jpg');
+    background-size: 250px 250px;
+}
+div[id="5"]{
+    height: 250px;
+    width:250px;
+    background-color: pink;
+    float:left;
+    margin-top:20px;
+    margin-left: 20px;
+    background-image: url('../images/vege4.jpg');
+    background-size: 250px 250px;
+}
+div[id="6"]{
+    height: 250px;
+    width:250px;
+    background-color: pink;
+    float:left;
+    margin-top:20px;
+    margin-left: 20px;
+    background-image: url('../images/vege6.jpg');
+    background-size: 250px 250px;
+
+}
+div[id="7"]{
+    height: 250px;
+    width:250px;
+    background-color: pink;
+    float:left;
+    margin-top:20px;
+    margin-left: 20px;
+    background-image: url('../images/vege5.jpg');
+    background-size: 250px 250px;
+}
+div[id="8"]{
+    height: 250px;
+    width:250px;
+    background-color: pink;
+    float:left;
+    margin-top:20px;
+    margin-left: 20px;
+    background-image: url('../images/vege2.jpg');
+    background-size: 250px 250px;
+}
+div[id="9"]{
+    height:400px;
+    width:830px;
+    background-color:hotpink;
+    margin-left: 200px;
+    margin-bottom: 0px;
+     background-image: url('../images/vege7.jpg');
+    background-size: 330px 400px;
+    
+}
+div[id="10"]{
+    height:400px;
+    width:500px;
+    background-color:royalblue;
+    float:right;
+     background-image: url('../images/vege23.jpg');
+    background-size: 500px 400px;
+    
+}
+div[id="11"]{
+    height:400px;
+    width:830px;
+    background-color:green;
+    margin-left: 200px;
+}
+div[id="12"]{
+    height:200px;
+    width:830px;
+    background-color:pink;
+    float:right;
+    margin-left: 200px;    
+}
+div[id="13"]{
+    height:150px;
+    width:250px;
+    background-color:white;
+    float:left;
+    margin-left:25px;
+        margin-top: 50px;
+}
+div[id="14"]{
+    height:150px;
+    width:250px;
+    background-color:white;
+    float:left;
+    margin-left: 25px;
+        margin-top: 50px;
+}
+div[id="15"]{
+    height:150px;
+    width:250px;
+    background-color:white;
+    float:right;
+    margin-left: 25px;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+div[id="16"]{
+    height:300px;
+    width:830px;
+    background-color:white;
+    margin-left: 200px;
+}
+div[id="17"]{
+    height:150px;
+    width:250px;
+    background-color:hotpink;
+    float:left;
+   margin-left: 25px;
+    background-image: url('../images/vege12.jpg');
+    background-size: 250px 150px;
+    
+}
+div[id="18"]{
+    height:150px;
+    width:250px;
+    background-color:hotpink;
+    float:left;
+    margin-left: 25px;
+     background-image: url('../images/vege14.jpg');
+    background-size: 330px 400px;
+    
+}
+div[id="19"]{
+    height:150px;
+    width:250px;
+    background-color:hotpink;
+    float:left;
+    margin-left: 30px;
+     background-image: url('../images/vege13.jpg');
+    background-size: 330px 400px;
+    
+}
+div[id="20"]{
+    height:400px;
+    width:830px;
+    background-color:green;
+    margin-left: 200px;
+}
+div[id="21"]{
+    height:350px;
+    width:250px;
+    background-color:green;
+   float:left;
+    margin-left: 20px;
+    margin-top:30px;
+}
+div[id="22"]{
+    height:350px;
+    width:250px;
+    background-color:green;
+  float:left;
+    margin-left: 20px;
+     margin-top:30px;
+}
+div[id="23"]{
+    height:350px;
+    width:250px;
+    background-color:green;
+     float: left;
+    margin-left: 20px;
+     margin-top:30px;
+}
+div[id="24"]{
+    height:150px;
+    width:150px;
+    background-color:skyblue;
+     border: 1px;
+    border-radius:250px;
+    margin-left: 50px;
+     margin-top:10px;
+      background-image: url('../images/vege17.jpg');
+    background-size: 150px 150px;
+    margin-top: 40px;
+    
+}
+div[id="25"]{
+    height:150px;
+    width:150px;
+    background-color:skyblue;
+    border: 1px;
+    float: left;
+    border-radius:250px;
+    margin-left: 50px;
+     margin-top:40px;
+      background-image: url('../images/vege19.jpg');
+    background-size: 150px 150px;
+    
+}
+div[id="26"]{
+    height:150px;
+    width:150px;
+    background-color:skyblue;
+    float:left;
+    border:1px;
+    border-radius: 250px;
+     margin-left: 50px;
+     margin-top:10px;
+      background-image: url('../images/vege18.jpg');
+    background-size: 150px 150px;
+    margin-top:40px;
+}
+div[id="27"]{
+    height:400px;
+    width:830px;
+    background-color:hotpink;
+    margin-left: 200px;
+    margin-bottom: 0px;
+     background-image: url('../images/vege21.jpg');
+    background-size: 330px 400px;
+    
+    }
+    div[id="28"]
+    {
+    height:400px;
+    width:400px;
+    background-color:yellowgreen;
+  float:left;
+    }
+    div[id="29"]{
+    height:400px;
+    width:830px;
+    background-color:green;
+    margin-left: 200px;
+     background-image: url('../images/vege22.jpg');
+    background-size: 330px 400px;
+    
+    }
+     div[id="30"]{
+    height:400px;
+    width:400px;
+    background-color:blue;
+    float:left;
+     background-image: url('../images/vege23.png');
+    background-size: 400px 400px;
+    
+    }
+     div[id="31"]{
+    height:200px;
+    width:830px;
+    background-color:black;
+    margin-left: 200px;
+    
+    }
+.c{
+    color:white;
+margin-left: 100px;
+    padding-top:30px;
+}
+
+.l{
+    color:white;
+    text-align: center;
+}
+.a{
+    color:white;
+    margin-left:100px;
+    margin-top: 90px;
+}
+.e{
+    color:white;
+margin-left:100px;
+}
+.f{
+    color:white;
+    text-align: center;
+    font-size: 20px;
+}
+.w{
+    color :white;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+.p{
+    color:white;
+    text-align: center;
+}
+input[type="button"]{
+    color:blue;
+    border:1px;
+    height:40px;
+    width: 100px;
+    border-radius: 20px;
+    margin-left: 140px;
+        margin-top: 20px;
+}
+.y{
+    color:white;
+    text-align: center;
+}
+.j{
+    color:white;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 40px;
+}
+.s{
+    color:green;
+    text-align:center;
+}
+.t{
+    color:black;
+    text-align: center;
+}
+.m{
+    text-align: center;
+    color:white;
+    padding-top: 70px;
+}
